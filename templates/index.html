@@ -4,20 +4,110 @@
     <meta charset="utf-8" />
     <title>Wine Quality Prediction</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap">
+    <style>
+        body {
+            font-family: 'Nunito', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #0a2247; /* Light Blue Background */
+        }
+        .page-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .form-v9-content {
+            background-image: url('static/assets/img/form-v9.jpg');
+            background-size: cover;
+            background-position: center;
+            width: 100%;
+            max-width: 800px;
+            border-radius: 15px;
+            overflow: hidden;
+        }
+        .form-detail {
+            padding: 40px;
+            background-color: rgba(255, 255, 255, 0.9); /* Slightly transparent white background */
+            border-radius: 15px;
+            box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        .form-row-total {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .form-row-total1 {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center; /* Center items horizontally */
+            align-items: center; /* Center items vertically */
+            margin-bottom: 20px;
+        }
+        .form-row {
+            width: calc(48% - 10px);
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+            color: #555;
+            font-size: 16px;
+            font-weight: 600;
+        }
+        .input-text {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #b3b3b3;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+        }
+        .input-text:focus {
+            border-color: #4caf50; /* Highlight border color on focus */
+        }
+        .register {
+            background-color: #3498db; /* Blue Button Color */
+            color: #fff;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 18px;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+            width: 100%; /* Make the button take full width */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .register:hover {
+            background-color: #2980b9; /* Darker Blue on Hover */
+        }
+    </style>
 </head>
 <body class="form-v9">
     <div class="page-content">
+        <div class="form-v9-content">
             <form class="form-detail" action="/predict" method="post">
                 <h2>Please Fill The Information</h2>
                 <div class="form-row-total">
                     <div class="form-row">
                         <label for="fixed_acidity"> Fixed Acidity:</label>
-                        <input type="text" name="fixed_acidity" id="fixed_acidity" class="input-text" placeholder="fixed_acidity" required>
+                        <input type="text" name="fixed_acidity" id="fixed_acidity" class="input-text" placeholder="Fixed Acidity" required>
                     </div>
                     <div class="form-row">
                         <label for="volatile_acidity"> Volatile Acidity:</label>
-                        <input type="text" name="volatile_acidity" id="volatile_acidity" class="input-text" placeholder="volatile_acidity" required>
+                        <input type="text" name="volatile_acidity" id="volatile_acidity" class="input-text" placeholder="Volatile Acidity" required>
                     </div>
                 </div>
                 <div class="form-row-total">
@@ -63,14 +153,16 @@
                 <div class="form-row-total">
                     <div class="form-row">
                         <label for="alcohol"> Alcohol:</label>
-                        <input type="text" name="alcohol" id="alcohol" class="input-text" placeholder="alcohol" required>
+                        <input type="text" name="alcohol" id="alcohol" class="input-text" placeholder="Alcohol" required>
                     </div>
                 </div>
-                <div class="form-row-last">
-                    <input type="submit" name="register" class="register" value="Predict">
+                <div class="form-row-total1">
+                    <div class="form-row-last">
+                        <input type="submit" name="register" class="register" value="Predict">
+                    </div>
                 </div>
             </form>
-        
+        </div>
     </div>
 </body>
 </html>
