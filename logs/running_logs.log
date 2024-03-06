@@ -52,7 +52,7 @@ x==========x]
 [2024-03-06 17:38:05,927: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
  * Running on http://127.0.0.1:8080
- * Running on http://192.168.57.71:8080]
+ 
 [2024-03-06 17:38:05,927: INFO: _internal: [33mPress CTRL+C to quit[0m]
 [2024-03-06 17:38:09,670: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:38:09] "GET / HTTP/1.1" 200 -]
 [2024-03-06 17:38:23,613: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:38:23] "POST /predict HTTP/1.1" 200 -]
