@@ -1,0 +1,304 @@
+[2024-03-06 17:16:17,511: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.57.71:8080]
+[2024-03-06 17:16:17,511: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-06 17:16:28,762: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:28] "GET / HTTP/1.1" 200 -]
+[2024-03-06 17:16:28,788: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:28] "[33mGET /static/css2/nunito-font.css HTTP/1.1[0m" 404 -]
+[2024-03-06 17:16:28,790: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:28] "[33mGET /static/css2/style.css HTTP/1.1[0m" 404 -]
+[2024-03-06 17:16:28,814: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:28] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-03-06 17:16:28,874: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-03-06 17:16:45,533: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:45] "POST /predict HTTP/1.1" 200 -]
+[2024-03-06 17:16:45,567: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:45] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-03-06 17:16:45,623: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:45] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2024-03-06 17:16:45,624: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:45] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-03-06 17:16:56,711: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:16:56] "[33mGET /static/assets/favicon.ico HTTP/1.1[0m" 404 -]
+[2024-03-06 17:19:11,696: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.57.71:8080]
+[2024-03-06 17:19:11,697: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-06 17:19:20,106: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:19:20] "GET / HTTP/1.1" 200 -]
+[2024-03-06 17:19:20,140: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:19:20] "[33mGET /static/css2/style.css HTTP/1.1[0m" 404 -]
+[2024-03-06 17:19:20,142: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:19:20] "[33mGET /static/css2/nunito-font.css HTTP/1.1[0m" 404 -]
+[2024-03-06 17:19:20,166: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:19:20] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-03-06 17:19:33,859: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:19:33] "POST /predict HTTP/1.1" 200 -]
+[2024-03-06 17:19:33,886: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:19:33] "[33mGET /static/js/scripts.js HTTP/1.1[0m" 404 -]
+[2024-03-06 17:19:33,887: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:19:33] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2024-03-06 17:19:33,911: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:19:33] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-03-06 17:28:36,014: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.57.71:8080]
+[2024-03-06 17:28:36,014: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-06 17:28:46,220: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:28:46] "GET / HTTP/1.1" 200 -]
+[2024-03-06 17:28:46,270: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:28:46] "[33mGET /static/assets/img/form-v9.jpg HTTP/1.1[0m" 404 -]
+[2024-03-06 17:30:04,158: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.57.71:8080]
+[2024-03-06 17:30:04,158: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-06 17:30:22,555: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:30:22] "GET / HTTP/1.1" 200 -]
+[2024-03-06 17:30:41,009: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:30:41] "POST /predict HTTP/1.1" 200 -]
+[2024-03-06 17:30:41,041: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:30:41] "[33mGET /static/assets/img/wine.gif HTTP/1.1[0m" 404 -]
+[2024-03-06 17:31:51,597: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-06 17:31:51,599: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:31:51,600: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:31:51,601: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:31:51,601: INFO: common: created directory at: artifacts]
+[2024-03-06 17:31:51,601: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-06 17:31:51,601: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-06 17:32:00,901: ERROR: main: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff9791a9390>: Failed to establish a new connection: [Errno -2] Name or service not known'))]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 405, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1059, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7ff9791a9390>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 800, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff9791a9390>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hemanth/only_ml/Wineequality-Red-ML/main.py", line 12, in <module>
+    data_ingestion.main()
+  File "/home/hemanth/only_ml/Wineequality-Red-ML/src/mlProject/pipeline/stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "/home/hemanth/only_ml/Wineequality-Red-ML/src/mlProject/components/data_ingestion.py", line 33, in download_file
+    raise e
+  File "/home/hemanth/only_ml/Wineequality-Red-ML/src/mlProject/components/data_ingestion.py", line 28, in download_file
+    gdown.download(prefix+file_id,zip_download_dir)
+  File "/home/hemanth/.local/lib/python3.11/site-packages/gdown/download.py", line 188, in download
+    res = sess.get(url, stream=True, verify=verify)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7ff9791a9390>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+[2024-03-06 17:34:12,919: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-06 17:34:12,921: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:34:12,922: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:34:12,923: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:34:12,923: INFO: common: created directory at: artifacts]
+[2024-03-06 17:34:12,923: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-06 17:34:12,923: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-06 17:34:21,510: ERROR: main: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9fbd15d7d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))]
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/util/connection.py", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/socket.py", line 962, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 716, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 405, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 1059, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 363, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f9fbd15d7d0>: Failed to establish a new connection: [Errno -2] Name or service not known
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 800, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9fbd15d7d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/hemanth/only_ml/Wineequality-Red-ML/main.py", line 12, in <module>
+    data_ingestion.main()
+  File "/home/hemanth/only_ml/Wineequality-Red-ML/src/mlProject/pipeline/stage_01_data_ingestion.py", line 16, in main
+    data_ingestion.download_file()
+  File "/home/hemanth/only_ml/Wineequality-Red-ML/src/mlProject/components/data_ingestion.py", line 33, in download_file
+    raise e
+  File "/home/hemanth/only_ml/Wineequality-Red-ML/src/mlProject/components/data_ingestion.py", line 28, in download_file
+    gdown.download(prefix+file_id,zip_download_dir)
+  File "/home/hemanth/.local/lib/python3.11/site-packages/gdown/download.py", line 188, in download
+    res = sess.get(url, stream=True, verify=verify)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 602, in get
+    return self.request("GET", url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='drive.google.com', port=443): Max retries exceeded with url: /uc?/export=download&id=1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f9fbd15d7d0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+[2024-03-06 17:36:49,600: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-06 17:36:49,602: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:36:49,603: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:36:49,604: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:36:49,604: INFO: common: created directory at: artifacts]
+[2024-03-06 17:36:49,604: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-06 17:36:49,604: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-06 17:36:53,324: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-06 17:36:53,351: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:36:53,351: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-03-06 17:36:53,353: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:36:53,354: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:36:53,355: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:36:53,355: INFO: common: created directory at: artifacts]
+[2024-03-06 17:36:53,356: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-06 17:36:53,384: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:36:53,384: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-03-06 17:36:53,387: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:36:53,388: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:36:53,390: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:36:53,390: INFO: common: created directory at: artifacts]
+[2024-03-06 17:36:53,390: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-06 17:36:53,455: INFO: data_transformation: Splited data into training and test sets]
+[2024-03-06 17:36:53,455: INFO: data_transformation: (1199, 12)]
+[2024-03-06 17:36:53,455: INFO: data_transformation: (400, 12)]
+[2024-03-06 17:36:53,455: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:36:53,455: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-03-06 17:36:53,457: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:36:53,457: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:36:53,458: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:36:53,459: INFO: common: created directory at: artifacts]
+[2024-03-06 17:36:53,459: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-06 17:36:53,839: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:36:53,839: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-03-06 17:36:53,845: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:36:53,846: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:36:53,849: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:36:53,850: INFO: common: created directory at: artifacts]
+[2024-03-06 17:36:53,850: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-06 17:36:53,869: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-06 17:36:53,874: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:37:23,432: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-03-06 17:37:23,434: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:37:23,435: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:37:23,436: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:37:23,436: INFO: common: created directory at: artifacts]
+[2024-03-06 17:37:23,436: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-03-06 17:37:23,436: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-06 17:37:26,729: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1oqAUCnkgRWdSFI_CCXbpmcNzbiRxVLQU/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-03-06 17:37:26,733: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:37:26,733: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-03-06 17:37:26,738: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:37:26,740: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:37:26,742: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:37:26,742: INFO: common: created directory at: artifacts]
+[2024-03-06 17:37:26,742: INFO: common: created directory at: artifacts/data_validation]
+[2024-03-06 17:37:26,751: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:37:26,751: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-03-06 17:37:26,753: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:37:26,754: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:37:26,756: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:37:26,756: INFO: common: created directory at: artifacts]
+[2024-03-06 17:37:26,756: INFO: common: created directory at: artifacts/data_transformation]
+[2024-03-06 17:37:26,775: INFO: data_transformation: Splited data into training and test sets]
+[2024-03-06 17:37:26,775: INFO: data_transformation: (1199, 12)]
+[2024-03-06 17:37:26,775: INFO: data_transformation: (400, 12)]
+[2024-03-06 17:37:26,776: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:37:26,776: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-03-06 17:37:26,778: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:37:26,779: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:37:26,780: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:37:26,780: INFO: common: created directory at: artifacts]
+[2024-03-06 17:37:26,780: INFO: common: created directory at: artifacts/model_trainer]
+[2024-03-06 17:37:26,872: INFO: main: >>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:37:26,872: INFO: main: >>>>>> stage Model evaluation stage started <<<<<<]
+[2024-03-06 17:37:26,874: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-03-06 17:37:26,874: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-03-06 17:37:26,875: INFO: common: yaml file: schema.yaml loaded successfully]
+[2024-03-06 17:37:26,875: INFO: common: created directory at: artifacts]
+[2024-03-06 17:37:26,875: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-03-06 17:37:26,881: INFO: common: json file saved at: artifacts/model_evaluation/metrics.json]
+[2024-03-06 17:37:26,881: INFO: main: >>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2024-03-06 17:38:05,927: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.57.71:8080]
+[2024-03-06 17:38:05,927: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-03-06 17:38:09,670: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:38:09] "GET / HTTP/1.1" 200 -]
+[2024-03-06 17:38:23,613: INFO: _internal: 127.0.0.1 - - [06/Mar/2024 17:38:23] "POST /predict HTTP/1.1" 200 -]
