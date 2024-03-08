@@ -1,5 +1,8 @@
 ## An End-to-End machine learning project with Flask
 
+### Dockerized
+### Deployed in AZURE cloud [https://wine-quality-ml-hemanth.azurewebsites.net/](https://wine-quality-ml-hemanth.azurewebsites.net/)
+
 - Data ingestion (from google drive link reading and loading the dataset into the project)
 - Data Validation
 - Data transformation
