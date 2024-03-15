@@ -37,7 +37,6 @@ Then go to the redirected browser.
 - update the components
 - update the pipeline
 - update the main.py
-
 - At last update the app.py
 
 #### By running `main.py`
