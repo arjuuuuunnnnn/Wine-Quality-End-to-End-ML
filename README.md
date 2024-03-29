@@ -44,3 +44,6 @@ Then go to the redirected browser.
 python main.py
 ```
 All the information of the project from data ingestion to prediction is saved in the file `logs/running_logs.log`
+
+
+### DVC has to be implemented and working on it..
