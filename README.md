@@ -2,7 +2,7 @@
 
 ### Dockerized
 ```bash
-docker pull arjuuuuunnnnn/wine-quality-ml
+docker pull arjuuuuunnnnn/wine-quality-ml:1
 ```
 ### Deployed in AZURE cloud [https://wine-quality-ml-hemanth.azurewebsites.net/](https://wine-quality-ml-hemanth.azurewebsites.net/)
 
