@@ -4,7 +4,6 @@
 ```bash
 docker pull arjuuuuunnnnn/wine-quality-ml:1
 ```
-### Deployed in AZURE cloud [https://wine-quality-ml-hemanth.azurewebsites.net/](https://wine-quality-ml-hemanth.azurewebsites.net/)
 
 - Data ingestion (from google drive link reading and loading the dataset into the project)
 - Data Validation
