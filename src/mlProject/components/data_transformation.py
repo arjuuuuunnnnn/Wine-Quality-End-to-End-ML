@@ -2,7 +2,7 @@ import os
 from src.mlProject import logger
 from sklearn.model_selection import train_test_split
 import pandas as pd
-from src.mlProject.entity.config_entity import DataTransformationConfig
+from src.mlProject.entity.config_entity import DataTransformationConfig 
 
 
 class DataTransformation:
@@ -10,8 +10,7 @@ class DataTransformation:
         self.config = config
 
     
-    # can add and do preprocessing, transformation, feature engineering, cleaning etc
-    # but here I took the cleaned data
+    # preprocess
 
 
     def train_test_spliting(self):
@@ -23,7 +22,7 @@ class DataTransformation:
         train.to_csv(os.path.join(self.config.root_dir, "train.csv"),index = False)
         test.to_csv(os.path.join(self.config.root_dir, "test.csv"),index = False)
 
-        logger.info("Splited data into training and test sets")
+        logger.info("Split data into training and test sets")
         logger.info(train.shape)
         logger.info(test.shape)
 
